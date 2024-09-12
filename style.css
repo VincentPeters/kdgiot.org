@@ -1,0 +1,15 @@
+/* KDG{css_has_more_than_styles} */
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

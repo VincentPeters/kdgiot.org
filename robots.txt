@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /hidden/
+# KDG{robots_can_help_too}
